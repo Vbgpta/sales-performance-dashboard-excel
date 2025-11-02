@@ -17,8 +17,4 @@ This Excel dashboard analyzes sales data for Vrinda Company, providing insights 
 - Charts & Slicers
 - Data Cleaning
 
-### 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
 
-### 🔗 Download File
-[Click here to download the Excel Dashboard](Vrinda_Sales_Dashboard.xlsx)
